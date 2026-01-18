@@ -1,9 +1,13 @@
 {
   "anecdotes": [
     {
-      "content": "If it hurts, do it more often",
-      "id": "47145",
-      "votes": 0
+      "anecdote": {
+        "content": "If it hurts, do it more often",
+        "id": "47145",
+        "votes": 0
+      },
+      "votes": 2,
+      "id": "47145"
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
@@ -33,17 +37,26 @@
     {
       "id": "f54e",
       "content": "test",
-      "votes": 0
+      "votes": 1
     },
     {
       "id": "c4ce",
       "content": "test",
-      "votes": 0
+      "votes": 1
     },
     {
-      "id": "6e21",
-      "content": "test2",
-      "votes": 0
+      "anecdote": {
+        "id": "6e21",
+        "content": "test2",
+        "votes": 0
+      },
+      "votes": 1,
+      "id": "6e21"
+    },
+    {
+      "id": "b004",
+      "content": "Apple",
+      "votes": 5
     }
   ]
 }
